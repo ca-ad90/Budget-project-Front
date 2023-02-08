@@ -1,7 +1,7 @@
 
 # Budget-Project Front-end
 
-##[Under Construction]
+## [Under Construction]
 This is a unfinished (bearly started) Front-end to a Buget/Transactions app
 
 ## Project Setup
